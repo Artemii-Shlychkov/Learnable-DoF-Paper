@@ -1,0 +1,90 @@
+{
+    "20": {
+        "run_1": {
+            "optimal_dof": 27.9473,
+            "KL": 2.7092,
+            "alpha_grad": 0.0035
+        },
+        "run_2": {
+            "optimal_dof": 15.4663,
+            "KL": 2.7158,
+            "alpha_grad": 0.0009
+        },
+        "run_3": {
+            "optimal_dof": 37.7731,
+            "KL": 2.7124,
+            "alpha_grad": 0.0255
+        },
+        "run_4": {
+            "optimal_dof": 38.4792,
+            "KL": 2.7057,
+            "alpha_grad": 0.0259
+        }
+    },
+    "10": {
+        "run_1": {
+            "optimal_dof": 42.8621,
+            "KL": 2.527,
+            "alpha_grad": 0.0287
+        },
+        "run_2": {
+            "optimal_dof": 42.6182,
+            "KL": 2.5267,
+            "alpha_grad": 0.0287
+        },
+        "run_3": {
+            "optimal_dof": 42.7764,
+            "KL": 2.5277,
+            "alpha_grad": 0.0288
+        },
+        "run_4": {
+            "optimal_dof": 41.9604,
+            "KL": 2.5283,
+            "alpha_grad": 0.0284
+        }
+    },
+    "5": {
+        "run_1": {
+            "optimal_dof": 55.3825,
+            "KL": 2.0456,
+            "alpha_grad": 0.037
+        },
+        "run_2": {
+            "optimal_dof": 55.3849,
+            "KL": 2.0523,
+            "alpha_grad": 0.0374
+        },
+        "run_3": {
+            "optimal_dof": 57.0765,
+            "KL": 2.0518,
+            "alpha_grad": 0.0384
+        },
+        "run_4": {
+            "optimal_dof": 55.7192,
+            "KL": 2.0436,
+            "alpha_grad": 0.0372
+        }
+    },
+    "2": {
+        "run_1": {
+            "optimal_dof": 65.3905,
+            "KL": 0.4822,
+            "alpha_grad": 0.0407
+        },
+        "run_2": {
+            "optimal_dof": 65.7636,
+            "KL": 0.4837,
+            "alpha_grad": 0.0405
+        },
+        "run_3": {
+            "optimal_dof": 65.8685,
+            "KL": 0.4776,
+            "alpha_grad": 0.0408
+        },
+        "run_4": {
+            "optimal_dof": 65.916,
+            "KL": 0.4861,
+            "alpha_grad": 0.0414
+        }
+    }
+}

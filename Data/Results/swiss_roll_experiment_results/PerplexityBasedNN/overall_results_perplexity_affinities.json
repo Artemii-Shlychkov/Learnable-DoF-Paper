@@ -1,0 +1,194 @@
+{
+    "noise_0.0": {
+        "run_0": {
+            "optimal_dof": 5.0567,
+            "KL": 0.286,
+            "alpha_grad": -0.0014
+        },
+        "run_1": {
+            "optimal_dof": 5.1268,
+            "KL": 0.2856,
+            "alpha_grad": -0.0005
+        },
+        "run_2": {
+            "optimal_dof": 4.911,
+            "KL": 0.2944,
+            "alpha_grad": -0.0007
+        },
+        "run_3": {
+            "optimal_dof": 5.0993,
+            "KL": 0.259,
+            "alpha_grad": -0.0004
+        },
+        "run_4": {
+            "optimal_dof": 5.3084,
+            "KL": 0.2888,
+            "alpha_grad": -0.0
+        },
+        "run_5": {
+            "optimal_dof": 5.1642,
+            "KL": 0.2668,
+            "alpha_grad": -0.0003
+        }
+    },
+    "noise_0.5": {
+        "run_0": {
+            "optimal_dof": 4.4651,
+            "KL": 0.4392,
+            "alpha_grad": -0.0008
+        },
+        "run_1": {
+            "optimal_dof": 4.553,
+            "KL": 0.4317,
+            "alpha_grad": -0.0005
+        },
+        "run_2": {
+            "optimal_dof": 4.6919,
+            "KL": 0.399,
+            "alpha_grad": -0.0002
+        },
+        "run_3": {
+            "optimal_dof": 4.8053,
+            "KL": 0.3963,
+            "alpha_grad": -0.0003
+        },
+        "run_4": {
+            "optimal_dof": 4.2355,
+            "KL": 0.431,
+            "alpha_grad": -0.0
+        },
+        "run_5": {
+            "optimal_dof": 4.3114,
+            "KL": 0.4156,
+            "alpha_grad": -0.0002
+        }
+    },
+    "noise_1.0": {
+        "run_0": {
+            "optimal_dof": 2.9737,
+            "KL": 0.6999,
+            "alpha_grad": -0.0001
+        },
+        "run_1": {
+            "optimal_dof": 3.0242,
+            "KL": 0.6871,
+            "alpha_grad": -0.0001
+        },
+        "run_2": {
+            "optimal_dof": 3.1948,
+            "KL": 0.674,
+            "alpha_grad": -0.0001
+        },
+        "run_3": {
+            "optimal_dof": 2.8272,
+            "KL": 0.7091,
+            "alpha_grad": -0.0
+        },
+        "run_4": {
+            "optimal_dof": 2.9676,
+            "KL": 0.6772,
+            "alpha_grad": -0.0002
+        },
+        "run_5": {
+            "optimal_dof": 2.9825,
+            "KL": 0.6932,
+            "alpha_grad": -0.0001
+        }
+    },
+    "noise_1.5": {
+        "run_0": {
+            "optimal_dof": 1.9031,
+            "KL": 1.0474,
+            "alpha_grad": -0.0001
+        },
+        "run_1": {
+            "optimal_dof": 1.99,
+            "KL": 0.9974,
+            "alpha_grad": -0.0002
+        },
+        "run_2": {
+            "optimal_dof": 1.8888,
+            "KL": 1.0453,
+            "alpha_grad": -0.0001
+        },
+        "run_3": {
+            "optimal_dof": 1.9237,
+            "KL": 1.0193,
+            "alpha_grad": -0.0001
+        },
+        "run_4": {
+            "optimal_dof": 1.9279,
+            "KL": 1.0381,
+            "alpha_grad": -0.0001
+        },
+        "run_5": {
+            "optimal_dof": 1.8792,
+            "KL": 1.0552,
+            "alpha_grad": -0.0001
+        }
+    },
+    "noise_2.0": {
+        "run_0": {
+            "optimal_dof": 1.7328,
+            "KL": 1.1905,
+            "alpha_grad": -0.0001
+        },
+        "run_1": {
+            "optimal_dof": 1.7396,
+            "KL": 1.1778,
+            "alpha_grad": -0.0001
+        },
+        "run_2": {
+            "optimal_dof": 1.7374,
+            "KL": 1.1764,
+            "alpha_grad": -0.0001
+        },
+        "run_3": {
+            "optimal_dof": 1.7213,
+            "KL": 1.1888,
+            "alpha_grad": -0.0001
+        },
+        "run_4": {
+            "optimal_dof": 1.721,
+            "KL": 1.1795,
+            "alpha_grad": -0.0001
+        },
+        "run_5": {
+            "optimal_dof": 1.7306,
+            "KL": 1.1865,
+            "alpha_grad": -0.0
+        }
+    },
+    "noise_2.5": {
+        "run_0": {
+            "optimal_dof": 1.665,
+            "KL": 1.2505,
+            "alpha_grad": -0.0001
+        },
+        "run_1": {
+            "optimal_dof": 1.6577,
+            "KL": 1.2555,
+            "alpha_grad": -0.0001
+        },
+        "run_2": {
+            "optimal_dof": 1.6562,
+            "KL": 1.2475,
+            "alpha_grad": -0.0001
+        },
+        "run_3": {
+            "optimal_dof": 1.6759,
+            "KL": 1.247,
+            "alpha_grad": -0.0
+        },
+        "run_4": {
+            "optimal_dof": 1.6621,
+            "KL": 1.2525,
+            "alpha_grad": -0.0001
+        },
+        "run_5": {
+            "optimal_dof": 1.6586,
+            "KL": 1.2409,
+            "alpha_grad": -0.0001
+        }
+    }
+}

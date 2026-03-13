@@ -1,0 +1,90 @@
+{
+    "20": {
+        "run_1": {
+            "optimal_dof": 1.0912,
+            "KL": 2.7084,
+            "alpha_grad": -0.0001
+        },
+        "run_2": {
+            "optimal_dof": 1.0908,
+            "KL": 2.7072,
+            "alpha_grad": -0.0001
+        },
+        "run_3": {
+            "optimal_dof": 1.0906,
+            "KL": 2.7018,
+            "alpha_grad": -0.0004
+        },
+        "run_4": {
+            "optimal_dof": 1.0908,
+            "KL": 2.7032,
+            "alpha_grad": 0.0
+        }
+    },
+    "10": {
+        "run_1": {
+            "optimal_dof": 1.1666,
+            "KL": 2.3303,
+            "alpha_grad": -0.0001
+        },
+        "run_2": {
+            "optimal_dof": 1.1711,
+            "KL": 2.3244,
+            "alpha_grad": -0.0001
+        },
+        "run_3": {
+            "optimal_dof": 1.1684,
+            "KL": 2.3226,
+            "alpha_grad": -0.0
+        },
+        "run_4": {
+            "optimal_dof": 1.1716,
+            "KL": 2.3144,
+            "alpha_grad": -0.0001
+        }
+    },
+    "5": {
+        "run_1": {
+            "optimal_dof": 1.3833,
+            "KL": 1.6946,
+            "alpha_grad": -0.0001
+        },
+        "run_2": {
+            "optimal_dof": 1.3826,
+            "KL": 1.677,
+            "alpha_grad": -0.0001
+        },
+        "run_3": {
+            "optimal_dof": 1.3788,
+            "KL": 1.7003,
+            "alpha_grad": -0.0001
+        },
+        "run_4": {
+            "optimal_dof": 1.386,
+            "KL": 1.6746,
+            "alpha_grad": -0.0
+        }
+    },
+    "2": {
+        "run_1": {
+            "optimal_dof": 8.5725,
+            "KL": 0.2562,
+            "alpha_grad": -0.0018
+        },
+        "run_2": {
+            "optimal_dof": 8.87,
+            "KL": 0.2603,
+            "alpha_grad": -0.0023
+        },
+        "run_3": {
+            "optimal_dof": 8.6985,
+            "KL": 0.2531,
+            "alpha_grad": -0.0013
+        },
+        "run_4": {
+            "optimal_dof": 8.5116,
+            "KL": 0.2592,
+            "alpha_grad": -0.0005
+        }
+    }
+}
