@@ -1,5 +1,5 @@
 [project]
-name = "Learnable DoF Paper"
+name = "learnable-dof-paper"
 version = "0.0.1"
 description = "Repo for running experiments and preparing paper materials on TSNE with learnable DoF"
 authors = [{ name="Artemii Shlychkov", email="artemii.shlychkov@gmail.com" }]
